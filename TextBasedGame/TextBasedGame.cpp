@@ -175,7 +175,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	battle();
 	if (user.health > 0){
 		cout << "After you slay the zombie which jumped down on you, you look up to find that a horde of zombies is approaching.\n";
-		cout << "You start running in the oppisite direction to find a pirate airship off in the distance, you decide it's best to go there.\n";
+		cout << "You start running in the opposite direction to find a pirate airship off in the distance, you decide it's best to go there.\n";
 		cout << "Even if they are filthy pirates.\n";
 	}
 	setEnemyStats("Avian pirate", 30, "Cutlass", "Pistol", 4, 6);
